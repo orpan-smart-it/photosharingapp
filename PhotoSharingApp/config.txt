@@ -1,0 +1,2 @@
+ az storage account show-connection-string    
+ --resource-group learn-2ea3aed5-1a82-4a07-af57-f4a8bd2d503a     --name orpansandbox     --query connectionString 
